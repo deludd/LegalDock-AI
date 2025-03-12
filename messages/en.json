@@ -1,0 +1,20 @@
+{
+    "title": "LegalDock AI",
+    "subtitle": "Upload a legal document to analyze and simplify it",
+    "language": {
+        "en": "English",
+        "uk": "Ukrainian"
+    },
+    "upload": {
+        "dropzone": "Drag & drop a PDF document, or click to select",
+        "dropActive": "Drop the PDF here",
+        "fileSelected": "File selected: {filename}",
+        "button": "Analyze Document"
+    },
+    "analysis": {
+        "loading": "Analyzing document...",
+        "summary": "Summary",
+        "keyPoints": "Key Points",
+        "simplified": "Simplified Text"
+    }
+}

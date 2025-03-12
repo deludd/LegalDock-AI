@@ -1,0 +1,20 @@
+{
+    "title": "LegalDock AI",
+    "subtitle": "Завантажте юридичний документ для аналізу та спрощення",
+    "language": {
+        "en": "English",
+        "uk": "Українська"
+    },
+    "upload": {
+        "dropzone": "Перетягніть PDF документ сюди або натисніть, щоб вибрати",
+        "dropActive": "Відпустіть PDF тут",
+        "fileSelected": "Вибраний файл: {filename}",
+        "button": "Аналізувати документ"
+    },
+    "analysis": {
+        "loading": "Аналіз документу...",
+        "summary": "Резюме",
+        "keyPoints": "Ключові моменти",
+        "simplified": "Спрощений текст"
+    }
+}
